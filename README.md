@@ -9,7 +9,9 @@ I am exhilarated by the prospect of collaborating on innovative and challenging 
 
 My aim is not only to contribute to the success of the projects I embark upon but also to learn from my peers and leaders to continually enhance my skills and knowledge. 
 
-If you're in search of a committed, enthusiastic programmer eager to dive headfirst into thrilling projects, look no further—I am here and ready to join your team! I eagerly await the opportunity to collaborate and create something extraordinary together!
+If you're in search of a committed, enthusiastic programmer eager to dive headfirst into thrilling projects, look no further—
+
+I am here and ready to join your team! I eagerly await the opportunity to collaborate and create something extraordinary together!
 
 
 ## 🌐 Socials:
