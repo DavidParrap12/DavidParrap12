@@ -1,34 +1,97 @@
-# 💫 About Me:
-Greetings! 👋 Hi! I'm David Parra Pardo, a passionate 23-year-old programmer from Colombia. 
+👋 Hi, I'm David Parra Pardo
 
-From a young age, I discovered my fascination with technology and the digital world, which has now become a burning passion for programming.
+I'm a Software Developer and Systems Engineering student from Colombia, focused on building modern web applications and solving real-world problems through software.
 
-My main focus is backend development, where I continuously strive to master key languages and technologies. 
+My main areas of development are Frontend and Backend, with a stronger focus on building responsive user interfaces with React, Next.js, TypeScript, and JavaScript, while also working with Java, Spring Boot, Node.js, REST APIs, and relational databases.
 
-I also have experience in frontend development, giving me a comprehensive view of software development. 
+I enjoy turning ideas and requirements into functional, maintainable applications, from frontend interfaces and API integrations to backend services and database-driven systems.
 
-I concentrate on developing problem-solving and critical thinking skills to confidently tackle any challenge.
+🎯 Goal: I'm currently looking for a Junior Frontend, Backend, or Full-Stack Developer opportunity where I can contribute to real projects, collaborate with experienced developers, and continue growing as a software engineer.
 
-I am excited to collaborate on innovative and challenging projects, valuing teamwork and the synergy created when passionate minds come together to achieve common goals.
+🛠️ Tech Stack
 
+Frontend
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/davidparrap12) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/davidparrap12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/david-fernando-parra-pardo-/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@DavidParrap12_) 
+Backend
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DavidParrap12&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DavidParrap12&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidParrap12&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Databases & Tools
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DavidParrap12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+🚀 Featured Projects
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DavidParrap12&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+🌎 OnTour DMC Colombia
 
----
-[![](https://visitcount.itsvg.in/api?id=DavidParrap12&icon=2&color=3)](https://visitcount.itsvg.in)
+Bilingual travel website built for an international Destination Management Company.
+
+Stack: Next.js, TypeScript, Tailwind CSS, Framer Motion
+
+📌 10 travel circuits
+
+🌐 Spanish / English internationalization
+
+💬 WhatsApp booking flow
+
+⭐ Google Reviews integration
+
+🔍 SEO optimization and structured data
+
+⚡ Responsive design and performance optimization
+
+🚀 Vercel deployment with custom domain
+
+🔗 Live Website (Reemplazar con tu enlace real)
+
+🏗️ SGPO — Construction Management Platform
+
+Web and mobile interface for construction task and project management.
+
+Stack: React Native, Express.js, PostgreSQL, Tailwind CSS
+
+📱 Responsive mobile interfaces
+
+🧩 Reusable UI components
+
+📋 Construction task management
+
+🔌 API integration
+
+💾 Database-driven application features
+
+🛒 Supermarket Management System
+
+Web application for managing supermarket inventory, products, sales, and reporting.
+
+Stack: JavaScript, HTML5, CSS3
+
+📦 Product management
+
+📊 Inventory tracking
+
+🏷️ Sales management
+
+🧮 Dynamic calculations
+
+💻 Interactive frontend modules
+
+🎓 Education
+
+B.Sc. Systems and Computer Engineering
+
+Corporación Universitaria Minuto de Dios (UNIMINUTO)
+
+📅 2022 – Present
+
+Technologist in Software Analysis and Development (ADSO)
+
+SENA — Servicio Nacional de Aprendizaje
+
+Oracle Next Education (ONE)
+
+Alura Latam + Oracle
+
+📚 Backend Development — Java, Spring Boot, OOP, relational databases
+
+📫 Connect With Me
+
+⭐ I'm always interested in learning, building, and collaborating on interesting software projects.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
