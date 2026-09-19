@@ -38,7 +38,7 @@ Bilingual travel website built for an international Destination Management Compa
 - Responsive design and performance optimization
 - Vercel deployment with custom domain
 
-🔗 [ontourdmc.com](#ontourdmc.com)
+🔗 [Live Website](ontourdmc.com)
 
 ### 🏗️ SGPO — Construction Management Platform
 Web and mobile interface for construction task and project management.
@@ -81,9 +81,9 @@ Backend Development — Java, Spring Boot, OOP, relational databases
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](#)
-- 💻 [GitHub](#)
-- 🌐 [Portfolio](#)
+- 💼 [LinkedIn](https://www.linkedin.com/in/david-fernando-parra-pardo-/)
+- 💻 [GitHub](https://github.com/DavidParrap12)
+- 🌐 [Portfolio](https://portafolio-web-delta-lac.vercel.app/)
 
 ---
 
